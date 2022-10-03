@@ -1,3 +1,12 @@
+/************************************************************************* *  WEB322– Assignment 2 *  
+ * I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part *
+ *   of this assignment has been copied manually or electronically from any other source  *  (including
+ *  3rd party web sites) or distributed to other students. *  *  
+ * Name: __Mohammed Mahi Shaikh__________________________ 
+ * Student ID: ___147891212___________ 
+ * Date: ____9/2/2022____ * * 
+ *  Your app’s URL (from Cyclic) :____https://fragile-gray-shawl.cyclic.app___________________________________________ 
+ * * *************************************************************************/  
 var path = require("path");
 var express = require("express");
 var app = express();
